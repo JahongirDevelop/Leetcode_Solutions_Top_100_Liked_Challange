@@ -7,7 +7,7 @@ public class Problem_41_First_Missing_Positive {
       */
     public static void main(String[] args) {
         int[] nums = {1,2,0};
-        firstMissingPositive(nums);
+        System.out.println(firstMissingPositive(nums));
     }
     public static int firstMissingPositive(int[] nums) {
         int n = nums.length;
