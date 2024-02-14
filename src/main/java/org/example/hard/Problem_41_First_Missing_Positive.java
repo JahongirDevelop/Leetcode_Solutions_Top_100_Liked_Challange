@@ -6,7 +6,7 @@ public class Problem_41_First_Missing_Positive {
       https://leetcode.com/problems/first-missing-positive
       */
     public static void main(String[] args) {
-
+        firstMissingPositive();
     }
     public static int firstMissingPositive(int[] nums) {
         int n = nums.length;
