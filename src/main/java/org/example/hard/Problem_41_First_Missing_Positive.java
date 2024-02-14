@@ -8,7 +8,7 @@ public class Problem_41_First_Missing_Positive {
     public static void main(String[] args) {
 
     }
-    public int firstMissingPositive(int[] nums) {
+    public static int firstMissingPositive(int[] nums) {
         int n = nums.length;
         boolean[] found = new boolean[n + 1];
         for (int i = 0; i < n; i++) {
