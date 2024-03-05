@@ -7,7 +7,6 @@ public class Problem_1_TwoSum {
       Path :
       https://leetcode.com/problems/two-sum
       */
-
     public static void main(String[] args) {
     int[] nums = {2,7,11,15};
     int target = 9;
