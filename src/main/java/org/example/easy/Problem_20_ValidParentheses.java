@@ -3,7 +3,6 @@ package org.example.easy;
 import java.util.Stack;
 
 public class Problem_20_ValidParentheses {
-
     /*
       Path :
       https://leetcode.com/problems/valid-parentheses
