@@ -3,6 +3,7 @@ package org.example.easy;
 import java.util.Stack;
 
 public class Problem_20_ValidParentheses {
+
     public boolean isValid(String s) {
         Stack<Character> stack = new Stack<>();
         for (char c : s.toCharArray()) {
