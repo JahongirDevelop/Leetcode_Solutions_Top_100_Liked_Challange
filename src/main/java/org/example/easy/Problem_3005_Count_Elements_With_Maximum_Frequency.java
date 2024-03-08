@@ -1,6 +1,10 @@
 package org.example.easy;
 
 public class Problem_3005_Count_Elements_With_Maximum_Frequency {
+    /*
+      Path :
+      https://leetcode.com/problems/count-elements-with-maximum-frequency
+      */
         public int maxFrequencyElements(int[] nums) {
             int[] a =new int[101];
             for(int i:nums) {
