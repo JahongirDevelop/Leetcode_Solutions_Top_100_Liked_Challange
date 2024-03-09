@@ -1,7 +1,4 @@
 package org.example.easy;
-
-import java.util.Arrays;
-
 public class Problem_2540_Minimum_Common_Value {
 
     public int getCommon(int[] nums1, int[] nums2) {
