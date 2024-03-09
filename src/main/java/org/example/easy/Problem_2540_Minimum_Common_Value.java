@@ -6,7 +6,8 @@ public class Problem_2540_Minimum_Common_Value {
       */
 
     public static void main(String[] args) {
-
+        int[] nums1 = {1,2,3};
+        int[] nums2 = {2,4};
     }
 
     public int getCommon(int[] nums1, int[] nums2) {
