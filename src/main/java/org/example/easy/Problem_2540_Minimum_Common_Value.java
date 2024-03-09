@@ -5,6 +5,10 @@ public class Problem_2540_Minimum_Common_Value {
       https://leetcode.com/problems/minimum-common-value
       */
 
+    public static void main(String[] args) {
+
+    }
+
     public int getCommon(int[] nums1, int[] nums2) {
         int i = 0, j = 0;
         while (i < nums1.length && j < nums2.length){
