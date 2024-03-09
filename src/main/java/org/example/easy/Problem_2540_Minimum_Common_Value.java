@@ -1,5 +1,9 @@
 package org.example.easy;
 public class Problem_2540_Minimum_Common_Value {
+    /*
+      Path :
+      https://leetcode.com/problems/minimum-common-value
+      */
 
     public int getCommon(int[] nums1, int[] nums2) {
         int i = 0, j = 0;
