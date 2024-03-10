@@ -4,7 +4,6 @@ public class Problem_2540_Minimum_Common_Value {
       Path :
       https://leetcode.com/problems/minimum-common-value
       */
-
     public static void main(String[] args) {
         int[] nums1 = {1,2,3};
         int[] nums2 = {2,4};
